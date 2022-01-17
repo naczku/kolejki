@@ -1,0 +1,10 @@
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\bin\Debug\Queues.exe.config
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\bin\Debug\Queues.exe
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\bin\Debug\Queues.pdb
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.Wizyty.resources
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.Properties.Resources.resources
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.csproj.GenerateResource.cache
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.exe
+C:\Users\OEM\Desktop\naczku\Queues-master\Queues-master\Queues\obj\Debug\Queues.pdb
